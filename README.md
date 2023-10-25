@@ -1,7 +1,7 @@
 ### Olá! sou André Cardoso!
 
 
-- 🔭 Atualmente trabalho como: Trainee de desenvolvimento
+- 🔭 Atualmente trabalho como: Desenvolvedor Mobile iOS Nativo
 - 📫 Contato e-mail: andre_cardoso19@outlook.com
 <div>
   <a href="https://www.twitch.tv/andre_ancara" target="_blank"><img align="center" alt="C#" height="30" width="90" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
